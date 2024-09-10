@@ -1,1 +1,2 @@
 # DioDocsExcelCrossWorkbookTableFormula
+クロスワークブック数式で外部ワークブックのテーブルを参照する
